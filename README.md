@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Buddhi Sankalpa</h1>
 <h3 align="center">Full Stack Developer</h3>
 <div align="center">
-    <p>Hello, I am B uddhi Sankalpa, Engineering graduate
-        from University Of Moratuwa, Sri-Lanka.<br>
+    <p>Hello, I am Buddhi Sankalpa, an engineering graduate
+        from the University of Moratuwa, Sri Lanka.<br>
         I'm a passionate self-learner and a Sofware Engineer.<br>
         I embrace continuous learning, staying up-to-date with the latest technologies and best practices, and I'm
         always
