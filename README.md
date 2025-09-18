@@ -72,13 +72,17 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 
 
+<p align="center">
+        <img align="center" 
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=buddhisankalpa&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+                alt="buddhisankalpa" />
+</p>
+<p align="center"><img align="center"  
+        <img src="https://github-readme-stats.vercel.app/api?username=buddhisankalpa&show_icons=true&theme=tokyonight" />
+</p>
+
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=buddhisankalpa&show_icons=true&locale=en&layout=compact"
-        alt="buddhisankalpa" /></p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhisankalpa&theme=tokyonight" />
+</p>
 
-<p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=buddhisankalpa&show_icons=true&locale=en"
-        alt="buddhisankalpa" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhisankalpa&"
-        alt="buddhisankalpa" /></p>
