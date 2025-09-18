@@ -7,7 +7,7 @@
 <div align="center">
     <p>Hello, I am Buddhi Sankalpa, an engineering graduate
         from the University of Moratuwa, Sri Lanka.<br>
-        I'm a passionate self-learner and a Sofware Engineer.<br>
+        I'm a passionate self-learner and a Software Engineer.<br>
         I embrace continuous learning, staying up-to-date with the latest technologies and best practices, and I'm
         always
         eager to take on new and exciting coding ventures.</p>
